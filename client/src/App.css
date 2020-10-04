@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik&display=swap");
+
+.color-logo {
+  background-color: #1497d3;
+}
+
+.logo-color-front {
+  color: #1497d3;
+}
+
+.login-form {
+  width: 100%;
+  margin: auto;
+  padding: 15px;
+  max-width: 329px;
+}
+
+.card-footer-address {
+  font-family: "Rubik", sans-serif;
+  padding: 0.4rem 0.5rem;
+  background-color: rgb(255, 255, 255);
+  border-top: none;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.seller-joined {
+  font-family: "Rubik", sans-serif;
+  font-size: 0.75rem;
+}
+
+.product-card {
+  cursor: pointer;
+}
+
+.product-class-link {
+  color: inherit;
+}
+
+.product-class-link:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.remove-div-link-style {
+  color: inherit;
+}
+
+.remove-div-link-style:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.product-card:hover,
+.hover-effect:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px 0px;
+}
+
+/* navlink current */
+.current {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.productpage-productimage {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  padding: 20px 30px;
+}
+
+.simple-bordered {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.productpage-sliderbutton-next {
+  background-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.2));
+}
+.productpage-sliderbutton-prev {
+  background-image: linear-gradient(270deg, transparent, rgba(0, 0, 0, 0.2));
+}
+
+.carousel-control-prev {
+  width: 10%;
+}
+
+.carousel-control-next {
+  width: 10%;
+}
+
+.wishlist-trash-icon:hover {
+  transform: scale(1.2, 1.2);
+  transition: transform 0.2s;
+}
+
+.no-border {
+  border: none;
+}
+
+.field-required label:after {
+  content: "*";
+  color: red;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* 
+  admin home page
+*/
+
+.each-card {
+  box-shadow: 1px 2px 5px #999;
+}
+
+.each-card:hover {
+  transform: translateY(-1px);
+  transition: all 0.2s;
+  box-shadow: 2px 3px 15px #999;
+}
+
+/*new code */
+.sub-list {
+  border: none;
+  margin: 5px 0px;
+  width: 100%;
+  padding: 10px 5px;
+}
+
+.scroll-div {
+  height: 150px;
+}
+
+.table-filter{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.table-filter-input{
+  display: inline;
+  box-shadow: none !important;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.dropdown-menu .dropdown-feedback-reply{
+  font-size: 16px;
+}
+
+.link-hover-darken:hover{
+  color: black !important;
+}

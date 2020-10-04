@@ -1,0 +1,115 @@
+.chatbody,
+.chatbody span,
+.chatbody div,
+.chatbody applet,
+.chatbody object,
+.chatbody iframe,
+.chatbody h1,
+.chatbody h2,
+.chatbody h3,
+.chatbody h4,
+.chatbody h5,
+.chatbody h6,
+.chatbody p,
+.chatbody blockquote,
+.chatbody pre,
+.chatbody a,
+.chatbody abbr,
+.chatbody acronym,
+.chatbody address,
+.chatbody big,
+.chatbody cite,
+.chatbody code,
+.chatbody del,
+.chatbody dfn,
+.chatbody em,
+.chatbody img,
+.chatbody ins,
+.chatbody kbd,
+.chatbody q,
+.chatbody s,
+.chatbody samp,
+.chatbody small,
+.chatbody strike,
+.chatbody strong,
+.chatbody sub,
+.chatbody sup,
+.chatbody tt,
+.chatbody var,
+.chatbody b,
+.chatbody u,
+.chatbody i,
+.chatbody center,
+.chatbody dl,
+.chatbody dt,
+.chatbody dd,
+.chatbody ol,
+.chatbody ul,
+.chatbody li,
+.chatbody fieldset,
+.chatbody form,
+.chatbody label,
+.chatbody legend,
+.chatbody table,
+.chatbody caption,
+.chatbody tbody,
+.chatbody tfoot,
+.chatbody thead,
+.chatbody tr,
+.chatbody th,
+.chatbody td,
+.chatbody article,
+.chatbody aside,
+.chatbody canvas,
+.chatbody details,
+.chatbody embed,
+.chatbody figure,
+.chatbody figcaption,
+.chatbody footer,
+.chatbody header,
+.chatbody hgroup,
+.chatbody menu,
+.chatbody nav,
+.chatbody output,
+.chatbody ruby,
+.chatbody section,
+.chatbody summary,
+.chatbody time,
+.chatbody mark,
+.chatbody audio,
+.chatbody video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.chatbody details,
+.chatbody figcaption,
+.chatbody figure,
+.chatbody footer,
+.chatbody header,
+.chatbody hgroup,
+.chatbody menu,
+.chatbody {
+  line-height: 1;
+}
+.chatbody ol,
+.chatbody ul {
+  list-style: none;
+}
+.chatbody blockquote,
+.chatbody q {
+  quotes: none;
+}
+.chatbody blockquote:before,
+.chatbody blockquote:after,
+.chatbody q:before,
+.chatbody q:after {
+  content: "";
+  content: none;
+}
+.chatbody table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
