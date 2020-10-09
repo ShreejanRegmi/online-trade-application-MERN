@@ -1,4 +1,4 @@
-# online-trade-application
+# online-trade-application (MERN Stack)
 
 An online classified (e-commerce) app created using Node.js and React.  
 
