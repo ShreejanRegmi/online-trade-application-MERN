@@ -6,6 +6,6 @@ Back end incorporates features such as REST API, jsonwebtokens for authenticatio
 
 Front end uses React, Bootstrap CSS Framework, and React Context API for state management.
 
-Application is built entirely from scratch without using any sort of template.
+Application is built entirely by me from scratch by learning from youtube tutorials without using any sort of pre-made template. 
 
 The demo video can be watched here: https://northampton.mediaspace.kaltura.com/media/t/1_ap9swlg3
