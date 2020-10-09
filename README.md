@@ -8,4 +8,4 @@ Front end uses React, Bootstrap CSS Framework, and React Context API for state m
 
 Application is built entirely from scratch without using any sort of template.
 
-The demo video can be watched here: 
+The demo video can be watched here: https://northampton.mediaspace.kaltura.com/media/t/1_ap9swlg3
